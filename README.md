@@ -25,4 +25,4 @@ A simple browser game inspired by the Chrome Dino game.
 
 ## 📸 Preview
 
-![Game Screenshot](trex.png)
+![Game Screenshot](Screenshot 2026-03-29 000346.png)

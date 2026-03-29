@@ -4,7 +4,7 @@ A simple browser game inspired by the Chrome Dino game.
 
 ## 🎮 Play the Game
 
-👉 https://fishswag.github.io/Trex/
+👉 https://OmarLoayK.github.io/Trex/
 
 ## 🚀 Features
 
